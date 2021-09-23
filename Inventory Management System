@@ -1,0 +1,28 @@
+# Inventory-Management-System-ETS-
+Inventory Management Project with Basic python  
+
+[record.json] 
+- Dataset(30) of Western Wear store in JSON file format,included 
+
+-- Product id 
+- Name of product 
+- Amount 
+- Quantity 
+- Brand 
+- Color   
+
+
+[IMS(ETS)_project.ipynb] 
+- Basic Operations performed on IMS project using python 
+- Importing JSON 
+- Read Data from JSON 
+- Add new Item to Inventory 
+- Remove Item from Inventory 
+- Updating Existing data 
+- Purchase 
+- Update Inventory after purchase 
+- Sales JSON  
+
+
+[sale_record.json] 
+- Contain data after purchasing
